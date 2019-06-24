@@ -16,5 +16,10 @@ namespace TestPullRequest
         {
             InitializeComponent();
         }
+
+        public void Init()
+        {
+
+        }
     }
 }
